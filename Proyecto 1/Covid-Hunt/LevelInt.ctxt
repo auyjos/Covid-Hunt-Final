@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LevelInt
+comment0.text=\r\n\ Este\ actor\ nos\ permite\ llevar\ cuenta\ de\ los\ n\u00FAmeros\ en\ cada\ nivel\r\n\ \r\n\ Jos\u00E9\ Auy\u00F3n\r\n\ \r\n
+comment1.params=
+comment1.target=LevelInt()
+comment2.params=prefix
+comment2.target=LevelInt(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=score
+comment4.target=void\ add(int)
+comment5.params=
+comment5.target=int\ getValue()
+comment6.params=
+comment6.target=void\ updateImage()
+comment6.text=\r\n\ Hacer\ imagen\ de\ contador\r\n
+numComments=7

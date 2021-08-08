@@ -1,0 +1,40 @@
+Class documentation
+<---- javadoc command: ---->
+E:\Software\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-protected
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+E:\Software\lib\greenfoot.jar;E:\Software\lib\bluejcore.jar;E:\Software\lib\bluejeditor.jar;E:\Software\lib\bluejext2.jar;E:\Software\lib\junit-jupiter-5.5.2.jar;E:\Software\lib\junit-jupiter-api-5.5.2.jar;E:\Software\lib\junit-jupiter-engine-5.5.2.jar;E:\Software\lib\junit-jupiter-migrationsupport-5.5.2.jar;E:\Software\lib\junit-jupiter-params-5.5.2.jar;E:\Software\lib\junit-platform-commons-1.5.2.jar;E:\Software\lib\junit-platform-console-1.5.2.jar;E:\Software\lib\junit-platform-console-standalone-1.5.2.jar;E:\Software\lib\junit-platform-engine-1.5.2.jar;E:\Software\lib\junit-platform-launcher-1.5.2.jar;E:\Software\lib\junit-platform-reporting-1.5.2.jar;E:\Software\lib\junit-platform-runner-1.5.2.jar;E:\Software\lib\junit-platform-suite-api-1.5.2.jar;E:\Software\lib\junit-platform-testkit-1.5.2.jar;E:\Software\lib\junit-quickcheck-core-0.9.jar;E:\Software\lib\junit-vintage-engine-5.5.2.jar;E:\Software\lib\hamcrest-core-1.3.jar;E:\Software\lib\bluej.jar;E:\Software\lib\classgraph-4.8.90.jar;E:\Software\lib\diffutils-1.2.1.jar;E:\Software\lib\commons-logging-api-1.1.2.jar;E:\Software\lib\jl1.0.1.jar;E:\Software\lib\opencsv-2.3.jar;E:\Software\lib\xom-1.2.9.jar;E:\Software\lib\lang-stride.jar;E:\Software\lib\nsmenufx-2.1.8.jar;E:\Software\lib\richtextfx-fat-0.9.0.jar;E:\Software\lib\guava-17.0.jar;E:\Software\lib\httpclient-4.1.1.jar;E:\Software\lib\httpcore-4.1.jar;E:\Software\lib\httpmime-4.1.1.jar;E:\Software\lib\javafx\lib\javafx.base.jar;E:\Software\lib\javafx\lib\javafx.controls.jar;E:\Software\lib\javafx\lib\javafx.fxml.jar;E:\Software\lib\javafx\lib\javafx.graphics.jar;E:\Software\lib\javafx\lib\javafx.media.jar;E:\Software\lib\javafx\lib\javafx.properties.jar;E:\Software\lib\javafx\lib\javafx.swing.jar;E:\Software\lib\javafx\lib\javafx.web.jar;E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt
+-d
+E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt\Cell.java
+<---- end of javadoc command ---->
+Loading source file E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt\Cell.java...
+Constructing Javadoc information...
+warning: unknown enum constant Tag.Any
+  reason: class file for threadchecker.Tag not found
+warning: unknown enum constant Tag.Any
+Standard Doclet version 11.0.10
+Building tree for all the packages and classes...
+Generating E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt\doc\Cell.html...
+Generating E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt\doc\package-summary.html...
+Generating E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt\doc\allclasses.html...
+Generating E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt\doc\allclasses.html...
+Generating E:\Programación Orientada a objetos\Proyecto 1\Covid-Hunt\doc\index.html...
+2 warnings

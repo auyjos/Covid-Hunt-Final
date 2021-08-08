@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ShotCounter
+comment0.text=\r\n\ Contador\ de\ disparos\r\n\ \r\n\ Jos\u00E9\ Auy\u00F3n\r\n\ \r\n
+comment1.params=
+comment1.target=ShotCounter()
+comment2.params=prefix
+comment2.target=ShotCounter(java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=score
+comment4.target=void\ add(int)
+comment5.params=score
+comment5.target=void\ subtract(int)
+comment6.params=
+comment6.target=int\ getValue()
+comment7.params=
+comment7.target=void\ updateImage()
+comment7.text=\r\n\ Imagen\ de\ contador\r\n
+numComments=8

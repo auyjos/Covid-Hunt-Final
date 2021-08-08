@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LevelNext
+comment0.text=\r\n\ Muestra\ el\ scoreboard\r\n\ \r\n\ Jos\u00E9\ Auy\u00F3n\r\n\ \r\n
+comment1.params=
+comment1.target=LevelNext()
+comment1.text=\r\n\ Indicador\ de\ nive\r\n
+comment2.params=level
+comment2.target=LevelNext(int)
+comment2.text=\r\n\ Indicador\ resultado\ final\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\r\n
+comment4.params=
+comment4.target=void\ deleteLevelBoard()
+comment4.text=\r\n\ Remueve\ el\ objeto\ \ \ \ \r\n
+comment5.params=title\ prefix\ level
+comment5.target=void\ makeImage(java.lang.String,\ java.lang.String,\ int)
+comment5.text=\r\n\ Imagen\ de\ indicador\ de\ nivel\r\n
+numComments=6
